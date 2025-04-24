@@ -74,7 +74,15 @@ By hollowing out a little cave and blocking the entrance, you get a safe “hobb
 
 
 ## 5. Hostile Mobs at Night (Zombie, Creeper, Skeleton, Spider)
-Description and image placeholder.
+At nighttime, mobs will spawn around threatening you. These enemies each behave differently – e.g. Zombies shamble toward you, Creepers silently approach and explode, Skeletons shoot arrows from afar, and Spiders can climb walls. Always be prepared to defend or hide at night. (Tip: Craft a sword early, and keep your shelter well-lit to prevent mob spawns inside.)
+
+![mobs mine](mob_mine1.png)
+
+You should also watchout for creepers as if you get to close to them they can blow up, dealing lots of damage to you and blowing up the surrounding areas around you and potentially damaging your house or even killing you
+
+
+![mobs mine](Creeper_mine.jpg)
+
 
 ## 6. Coal and Iron Ore in a Cave
 Description and image placeholder.
