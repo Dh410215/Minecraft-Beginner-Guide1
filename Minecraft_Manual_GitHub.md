@@ -1,5 +1,5 @@
 
-# Beginner’s Minecraft Manual – Key Visuals and Sections
+# Beginner’s Minecraft Manual 
 
 ## Table of Contents
 
