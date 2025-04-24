@@ -104,7 +104,14 @@ How to Craft a Furnace
 ![Iron](furnace_mine.jpg)
 
 ## 8. Small Wheat Farm by Water
-Description and image placeholder.
+Farming provides food. To start a wheat farm, pick a flat area near water or bring a water bucket. Use a hoe on grass to create farmland, then plant seeds (obtained by breaking grass). Farmland within 4 blocks of water will stay hydrated (darker soil), which speeds growth.
+A classic beginner farm is a 9×9 patch of tilled soil with a water source in the center. Ensure it’s lit with torches so crops even grow at night. After some time, wheat crops turn golden and can be harvested for wheat (to craft bread, etc.). Often you can find these near villages with a bunch of what ready to be farmed.
+
+![Wheat Minecraft](Wheat_mine.png)
+
+How to craft bread out of wheat
+
+![Wheat Minecraft](bread-craft.png)
 
 ## 9. Using a Map or Coordinates
 Description and image placeholder.
