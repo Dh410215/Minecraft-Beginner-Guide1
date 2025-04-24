@@ -85,7 +85,9 @@ You should also watchout for creepers as if you get to close to them they can bl
 
 
 ## 6. Coal and Iron Ore in a Cave
-Description and image placeholder.
+ Once you have wooden or stone tools, start mining in caves for coal and iron. Coal ore veins are common and give coal for torches and fuel. Iron ore (beige-flecked stone) is a bit deeper and used for stronger tools/armor. Often iron is close to the same level as coal. Look for black speckled stone (coal) and brown/tan speckled stone (iron) on cave walls. Mine iron with a stone pickaxe, then smelt the raw iron in a furnace to get usable iron ingots. Coal can also be used to make torches in the crafting part of the game which can be placed to provide light when mining in the dark or if its dark outside it provides light and can make the mobs not spawn arond it.
+
+ ![Iron](Iron_minecraft.png) ![Iron](Coal_minecraft.png)
 
 ## 7. Crafting Iron Tools and Armor
 Description and image placeholder.
