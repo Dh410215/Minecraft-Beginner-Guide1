@@ -273,6 +273,7 @@ How to access Creative mode:
 - If cheats are enabled, type `/gamemode creative` in the chat.
 
 > 💡 Perfect for massive builds, testing redstone circuits, or experimenting freely.
+![Creative Minecraft](creative_mine.png)
 ## 15. AI Use and Conclusions
 
 This Minecraft beginner’s manual was created with the help of AI to assist in formatting, organizing, and clearly presenting game instructions in a readable and structured format.
@@ -286,5 +287,5 @@ Key points:
 > 🤖 AI was used as a formatting and editorial assistant — not to replace human insight or gameplay knowledge.
 
 Thank you for reading! Whether you're building your first shelter or facing the Ender Dragon, enjoy every block of your Minecraft journey. 🌍✨
-![Creative Minecraft](creative_mine.png)
+
 
