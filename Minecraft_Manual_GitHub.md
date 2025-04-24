@@ -21,15 +21,15 @@
 ## 1. "Create New World" Screen (Game Mode & Difficulty)
 In this menu you create your new Minecraft world.
 
-Here you pick the game mode you want, insert a seed (optional), and select the difficulty.
+-Here you pick the game mode you want, insert a seed (optional), and select the difficulty.
 
-You can choose Survival or Creative mode (Hardcore is also available in Java Edition).
+-You can choose Survival or Creative mode (Hardcore is also available in Java Edition).
 
-Set the difficulty: Peaceful, Easy, Normal, or Hard for your new world.
+-Set the difficulty: Peaceful, Easy, Normal, or Hard for your new world.
 
-The screen also has options like Allow Cheats and experimental toggles.
+-The screen also has options like Allow Cheats and experimental toggles.
 
-Once you’re happy with the settings, click Create New World to generate the world.
+-Once you’re happy with the settings, click Create New World to generate the world.
 
 ![Create New Game Screen](create_new_game_png_MAIN.png)
 
