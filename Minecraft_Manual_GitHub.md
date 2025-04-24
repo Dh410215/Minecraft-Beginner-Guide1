@@ -276,15 +276,9 @@ How to access Creative mode:
 ![Creative Minecraft](creative_mine.png)
 ## 15. AI Use and Conclusions
 
-This Minecraft beginner’s manual was created with the help of AI to assist in formatting, organizing, and clearly presenting game instructions in a readable and structured format.
+This Minecraft beginner’s manual was created with the help of Chat-GPT in order to help with formatting and creating the Github website
 
-Key points:
-
-- The content was originally written in human voice and enhanced using AI for **organization, markdown formatting, and consistency**.
-- All gameplay insights and strategies reflect typical Minecraft experiences as observed and described by real players.
-- AI helped generate clean bullet lists, image callouts, and table of contents linking — making the guide easier to follow for beginners.
-
-> 🤖 AI was used as a formatting and editorial assistant — not to replace human insight or gameplay knowledge.
+- AI helped generate clean bullet lists, image callouts, and table of contents linking which helped me make the guide easier to follow for beginners.
 
 Thank you for reading! Whether you're building your first shelter or facing the Ender Dragon, enjoy every block of your Minecraft journey. 🌍✨
 
