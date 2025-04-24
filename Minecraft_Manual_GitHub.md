@@ -131,30 +131,30 @@ How to craft bread out of wheat
 
 ## 10. Exploring the Nether
 
-The Nether is a dangerous, hell-like dimension filled with lava, hostile mobs, and rare resources. It’s essential for progressing in the game, especially for crafting potions and reaching the End.
+The Nether is a dangerous, its a hell like dimension filled with lava, hostile mobs, and rare resources. It’s essential for progressing in the game, especially for crafting potions and reaching the End.
 
 ### 🔧 How to Enter the Nether:
-1. **Build a Nether Portal** using obsidian blocks in a rectangular frame (minimum 4×5 size, max 23×23).
-2. Light the portal with **flint and steel**.
-3. Step into the portal and stand still — it will transport you to the Nether.
+1. Build a Nether Portal using obsidian blocks in a rectangular frame (minimum 4×5 size, max 23×23).
+2. Light the portal with flint and steel.
+3. Step into the portal and stand still, and it will transport you to the Nether.
 
    ![A Nether Portal in the Overworld](nether_portal1.jpg)
 
 ### 💎 What You’ll Find in the Nether:
-- **Nether Quartz** – Used for redstone and decorative blocks.
-- **Glowstone** – Emits strong light and can be used in potions.
-- **Nether Fortresses** – Contain Blaze spawners (essential for Eyes of Ender) and loot chests.
-- **Bastions** – Piglin structures filled with gold and danger.
-- **Ancient Debris** – Smelted into Netherite scraps, used to upgrade diamond gear.
+- Nether Quartz – Used for redstone and decorative blocks.
+- Glowstone – Emits strong light and can be used in potions and makes for a nice decoration block.
+- Nether Fortresses – Contain Blaze spawners (when you kill blazes it will help you craft blaze bowder to craft the eye of ender) and loot chests.
+- Bastions – Piglin structures filled with gold and danger.
+- Ancient Debris – Smelted into Netherite scraps, used to upgrade diamond gear and craft nethorite amour and gear.
 
 ![A Nether Portal in the Overworld](nether_fort.jpg)
 
 
 ### ⚠️ Tips Before Entering:
-- Wear **gold armor** so Piglins won’t attack you.
-- Bring **blocks**, a **bow**, and **plenty of food**.
-- Keep a **flint and steel** or **fire charge** in case your portal is disabled.
-- Don't sleep in the Nether — beds **explode**!
+- Wear gold armor so Piglins won’t attack you.
+- Bring block, a bow, and plenty of food.
+- Keep a flint and steel or fire charge in case your portal is disabled.
+- Don't sleep in the Nether — beds explode!
 
 ## 11. Using a Map or Coordinates
  Minecraft has a map item and a coordinate system to help you navigate. Crafting a map (9 paper + 1 compass) and using it will draw the terrain as you explore. The map’s top corner displays the player’s coordinates in Bedrock Edition but in Java you’ll use the debug screen. Coordinates (X, Y, Z) can be viewed by pressing F3 (Java Edition) – this shows your position so you can note important locations or navigate back to your base. Many players use coordinates instead of maps early on, since finding the XYZ position helps to relocate points of interest.
