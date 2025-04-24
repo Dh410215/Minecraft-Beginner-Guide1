@@ -135,4 +135,14 @@ dragon’s health to zero.
 ![Eye Minecraft](dragon_mine.png)
 
 ## 12. Creative Mode Inventory (Unlimited Blocks)
-Description and image placeholder.
+In Creative mode, the player has unlimited blocks and items and cannot die under normal
+conditions. The inventory screen in Creative is filled with all blocks/items sorted by categories
+(Building Blocks, Tools, Combat, etc.). You can grab any quantity of any item. This freedom
+allows for building anything without needing to gather resources. As the wiki describes,
+Creative mode allows a player endless blocks, enabling builders to construct massive or complex
+creations with ease. To access Creative in singleplayer, you can start a world in Creative or
+enable cheats and use /gamemode creative. It’s the perfect mode to unleash your
+imagination with no survival constraints.
+
+![Creative Minecraft](creative_mine.png)
+
