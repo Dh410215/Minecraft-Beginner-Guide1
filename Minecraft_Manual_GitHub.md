@@ -17,6 +17,7 @@
 - [12. Throwing an Eye of Ender to Find a Stronghold](#12-throwing-an-eye-of-ender-to-find-a-stronghold)
 - [13. The Ender Dragon Battle (The End)](#13-the-ender-dragon-battle-the-end)
 - [14. Creative Mode Inventory (Unlimited Blocks)](#14-creative-mode-inventory-unlimited-blocks)
+- [15. AI Use and Conclusion](#15-AI_use_and_conclusion)
 
 ## 1. "Create New World" Screen (Game Mode & Difficulty)
 
@@ -272,6 +273,18 @@ How to access Creative mode:
 - If cheats are enabled, type `/gamemode creative` in the chat.
 
 > 💡 Perfect for massive builds, testing redstone circuits, or experimenting freely.
+## 15. AI Use and Conclusions
 
+This Minecraft beginner’s manual was created with the help of AI to assist in formatting, organizing, and clearly presenting game instructions in a readable and structured format.
+
+Key points:
+
+- The content was originally written in human voice and enhanced using AI for **organization, markdown formatting, and consistency**.
+- All gameplay insights and strategies reflect typical Minecraft experiences as observed and described by real players.
+- AI helped generate clean bullet lists, image callouts, and table of contents linking — making the guide easier to follow for beginners.
+
+> 🤖 AI was used as a formatting and editorial assistant — not to replace human insight or gameplay knowledge.
+
+Thank you for reading! Whether you're building your first shelter or facing the Ender Dragon, enjoy every block of your Minecraft journey. 🌍✨
 ![Creative Minecraft](creative_mine.png)
 
