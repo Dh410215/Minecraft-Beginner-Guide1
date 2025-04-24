@@ -44,9 +44,13 @@ With these first tools, you can harvest stone and coal, paving the way for bette
 
 ![Crafting a Table](crafting_table_main.png)
 
-How to Craft a Sword                                                    How to Craft a Pickaxe
+How to Craft a Sword                                                   
 
-![Crafting a Table](wood_sword.png)                                  ![Crafting a Table](picakxe_minecraft.png)
+![Crafting a Table](wood_sword.png)                                 
+
+How to Craft a Pickaxe
+
+![Crafting a Table](picakxe_minecraft.png)
 
 ## 4. First-Night Shelters (Dirt Hut and Cave)
 Description and image placeholder.
