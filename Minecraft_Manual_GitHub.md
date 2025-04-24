@@ -34,7 +34,15 @@ used to make your first tools and crafting table.
 
 
 ## 3. Crafting Table & Basic Tool Crafting
-Description and image placeholder.
+The 3×3 crafting grid interface, accessed by using a Crafting Table
+After gathering wood, craft wooden planks and then a Crafting Table (4 planks in a 2×2 grid).
+Using the crafting table opens a 3×3 crafting menu
+Here you can create basic wooden tools. For example, to make a wooden pickaxe, arrange 3
+wood planks across the top row and 2 sticks in the middle of the next two rows – three wood
+planks plus two sticks in the pattern yields a wooden pickaxe
+With these first tools, you can harvest stone and coal, paving the way for better tools
+
+![Crafting a Table](crafting_table_main.png)
 
 ## 4. First-Night Shelters (Dirt Hut and Cave)
 Description and image placeholder.
