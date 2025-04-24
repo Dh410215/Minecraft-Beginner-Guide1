@@ -52,6 +52,14 @@ How to Craft a Pickaxe
 
 ![Crafting a Table](picakxe_minecraft.png)
 
+How to Craft A Shovel
+
+![Crafting a Table](shovel_minecraft.png)
+
+How to craft a axe
+
+![Crafting a Table](axe_minecraft.png)
+
 ## 4. First-Night Shelters (Dirt Hut and Cave)
 Description and image placeholder.
 
