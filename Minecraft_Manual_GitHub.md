@@ -119,10 +119,20 @@ How to craft bread out of wheat
 ![Map Minecraft](map_mine.png)
 
 ## 10. Throwing an Eye of Ender to Find a Stronghold
-Description and image placeholder.
+Crafting Eyes of Ender in the inventory – combining Ender Pearls and Blaze Powder. These Eyes are used to locate strongholds. After gearing up, a key objective is finding a Stronghold (which contains the End Portal). Eyes are enders are also used for this: players can craft Eyes of Ender and throw them into the air to lead to a nearby stronghold
+When you throw an Eye of Ender (right-click while holding it), it floats upward and moves toward the direction of the nearest stronghold. Follow it, retrieve it if it drops, and repeat – the Eyes will gradually guide you to the stronghold’s location underground. (Be sure to craft plenty; Eyes can break on use.)
+
+![Eye Minecraft](eye_ender.png)
 
 ## 11. The Ender Dragon Battle (The End)
-Description and image placeholder.
+The final challenge in vanilla Minecraft is the Ender Dragon fight in The End dimension. To reach the End, activate the portal in a stronghold using 12 Eyes of Ender. The battle takes place on the End’s obsidian island with tall obsidian towers (each with End Crystals that heal the dragon).
+
+![Eye Minecraft](end_portal.png)
+
+The dragon will fly around and attack – you must destroy the End Crystals and then reduce the
+dragon’s health to zero.
+
+![Eye Minecraft](dragon_mine.png)
 
 ## 12. Creative Mode Inventory (Unlimited Blocks)
 Description and image placeholder.
