@@ -19,7 +19,7 @@
 ## 1. "Create New World" Screen (Game Mode & Difficulty)
 In this menu you create your new Minecraft world. Here you pick the game mode you want, insert a seed (optional), and select the difficulty. You can choose Survival or Creative mode (Hardcore is also available in Java Edition) and set the difficulty (Peaceful, Easy, Normal, or Hard) for your new world. The screen also has options like Allow Cheats and experimental toggles. Once you’re happy with the settings, click Create New World to generate the world. 
 
-![Create New Game Screen](Punching_wood_main.png)
+![Create New Game Screen](create_new_game_png_main.png)
 
 
 ## 2. Punching a Tree for Wood
@@ -30,7 +30,7 @@ your swords and utility. Wood from logs is the first resource; collect a few log
 the attack button on a tree. This yields wooden logs, which can then be crafted into planks and
 used to make your first tools and crafting table.
 
-https://github.com/Dh410215/Minecraft-Beginner-Guide1/blob/6bbaee851850389b51d9b14b02e2c742fdf83d63/Punching_wood_main.png
+![Punching a Tree](Punching_wood_main.png)
 
 
 ## 3. Crafting Table & Basic Tool Crafting
