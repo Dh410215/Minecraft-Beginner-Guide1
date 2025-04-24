@@ -17,7 +17,7 @@
 - [12. Throwing an Eye of Ender to Find a Stronghold](#12-throwing-an-eye-of-ender-to-find-a-stronghold)
 - [13. The Ender Dragon Battle (The End)](#13-the-ender-dragon-battle-the-end)
 - [14. Creative Mode Inventory (Unlimited Blocks)](#14-creative-mode-inventory-unlimited-blocks)
-- [15. AI Use and Conclusion](#15-AI_use_and_conclusion)
+- [15. AI Use and Conclusions](#15-ai-use-and-conclusions)
 
 ## 1. "Create New World" Screen (Game Mode & Difficulty)
 
