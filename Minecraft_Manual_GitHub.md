@@ -3,7 +3,7 @@
 
 ## Table of Contents
 
-- [1. "Create New World" Screen (Game Mode & Difficulty)](#1-create-new-world-screen-game-mode-difficulty)
+- [1. Create New World Screen (Game Mode & Difficulty)](#1-create-new-world-screen-game-mode--difficulty)
 - [2. Punching a Tree for Wood](#2-punching-a-tree-for-wood)
 - [3. Crafting Table & Basic Tool Crafting](#3-crafting-table-basic-tool-crafting)
 - [4. First-Night Shelters (Dirt Hut and Cave)](#4-first-night-shelters-dirt-hut-and-cave)
@@ -19,7 +19,7 @@
 - [14. Creative Mode Inventory (Unlimited Blocks)](#14-creative-mode-inventory-unlimited-blocks)
 - [15. AI Use and Conclusions](#15-ai-use-and-conclusions)
 
-## 1. "Create New World" Screen (Game Mode & Difficulty)
+## 1. Create New World Screen (Game Mode & Difficulty)
 
 In this menu you create your new Minecraft world. You can pick your preferred game mode, insert a seed (optional), and select the difficulty level.
 
