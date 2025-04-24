@@ -30,6 +30,8 @@ your swords and utility. Wood from logs is the first resource; collect a few log
 the attack button on a tree. This yields wooden logs, which can then be crafted into planks and
 used to make your first tools and crafting table.
 
+https://github.com/Dh410215/Minecraft-Beginner-Guide1/blob/6bbaee851850389b51d9b14b02e2c742fdf83d63/Punching_wood_main.png
+
 
 ## 3. Crafting Table & Basic Tool Crafting
 Description and image placeholder.
