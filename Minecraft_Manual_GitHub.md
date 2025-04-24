@@ -99,6 +99,10 @@ In order to get iron ingots you have to smelt it in a furnace
 
 ![Iron](smelt_iron.png)
 
+How to Craft a Furnace
+
+![Iron](furnace_mine.jpg)
+
 ## 8. Small Wheat Farm by Water
 Description and image placeholder.
 
