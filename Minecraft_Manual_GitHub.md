@@ -10,7 +10,7 @@
 - [5. Hostile Mobs at Night (Zombie, Creeper, Skeleton, Spider)](#5-hostile-mobs-at-night-zombie-creeper-skeleton-spider)
 - [6. Coal and Iron Ore in a Cave](#6-coal-and-iron-ore-in-a-cave)
 - [7. Crafting Iron Tools and Armor](#7-crafting-iron-tools-and-armor)
-- [8. How To find diamonds].(#8-How-to-find-diamonds)
+- [8. How To find diamonds](#8-How-to-find-diamonds)
 - [9. Small Wheat Farm by Water](#9-small-wheat-farm-by-water)
 - [10. Using a Map or Coordinates](#10-using-a-map-or-coordinates)
 - [11. Throwing an Eye of Ender to Find a Stronghold](#11-throwing-an-eye-of-ender-to-find-a-stronghold)
