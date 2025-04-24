@@ -21,7 +21,7 @@
 
 ## 1. Create New World Screen (Game Mode & Difficulty)
 
-In this menu you create your new Minecraft world. You can pick your preferred game mode, insert a seed (optional), and select the difficulty level.
+In this menu you'll create your new Minecraft world. You can pick your preferred game mode, insert a seed (optional), and select the difficulty level.
 
 To set up your world:
 
