@@ -138,12 +138,17 @@ The Nether is a dangerous, hell-like dimension filled with lava, hostile mobs, a
 2. Light the portal with **flint and steel**.
 3. Step into the portal and stand still — it will transport you to the Nether.
 
+   ![A Nether Portal in the Overworld](nether_portal1.jpg)
+
 ### 💎 What You’ll Find in the Nether:
 - **Nether Quartz** – Used for redstone and decorative blocks.
 - **Glowstone** – Emits strong light and can be used in potions.
 - **Nether Fortresses** – Contain Blaze spawners (essential for Eyes of Ender) and loot chests.
 - **Bastions** – Piglin structures filled with gold and danger.
 - **Ancient Debris** – Smelted into Netherite scraps, used to upgrade diamond gear.
+
+![A Nether Portal in the Overworld](nether_fort.jpg)
+
 
 ### ⚠️ Tips Before Entering:
 - Wear **gold armor** so Piglins won’t attack you.
