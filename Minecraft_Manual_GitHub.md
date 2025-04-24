@@ -10,11 +10,12 @@
 - [5. Hostile Mobs at Night (Zombie, Creeper, Skeleton, Spider)](#5-hostile-mobs-at-night-zombie-creeper-skeleton-spider)
 - [6. Coal and Iron Ore in a Cave](#6-coal-and-iron-ore-in-a-cave)
 - [7. Crafting Iron Tools and Armor](#7-crafting-iron-tools-and-armor)
-- [8. Small Wheat Farm by Water](#8-small-wheat-farm-by-water)
-- [9. Using a Map or Coordinates](#9-using-a-map-or-coordinates)
-- [10. Throwing an Eye of Ender to Find a Stronghold](#10-throwing-an-eye-of-ender-to-find-a-stronghold)
-- [11. The Ender Dragon Battle (The End)](#11-the-ender-dragon-battle-the-end)
-- [12. Creative Mode Inventory (Unlimited Blocks)](#12-creative-mode-inventory-unlimited-blocks)
+- [8. How To find diamonds].(#8-How-to-find-diamonds)
+- [9. Small Wheat Farm by Water](#9-small-wheat-farm-by-water)
+- [10. Using a Map or Coordinates](#10-using-a-map-or-coordinates)
+- [11. Throwing an Eye of Ender to Find a Stronghold](#11-throwing-an-eye-of-ender-to-find-a-stronghold)
+- [12. The Ender Dragon Battle (The End)](#12-the-ender-dragon-battle-the-end)
+- [13. Creative Mode Inventory (Unlimited Blocks)](#13-creative-mode-inventory-unlimited-blocks)
 
 ## 1. "Create New World" Screen (Game Mode & Difficulty)
 In this menu you create your new Minecraft world. Here you pick the game mode you want, insert a seed (optional), and select the difficulty. You can choose Survival or Creative mode (Hardcore is also available in Java Edition) and set the difficulty (Peaceful, Easy, Normal, or Hard) for your new world. The screen also has options like Allow Cheats and experimental toggles. Once you’re happy with the settings, click Create New World to generate the world. 
@@ -103,7 +104,20 @@ How to Craft a Furnace
 
 ![Iron](furnace_mine.jpg)
 
-## 8. Small Wheat Farm by Water
+## 8. How to find diamonds
+Diamonds are one of the most valuable resources in Minecraft. They’re used to craft powerful gear like diamond tools, armor, and the enchantment table.
+
+To find diamonds, follow these tips:
+
+- **Mine at the right level**: In Minecraft 1.18 and later, the best Y-level to find diamonds is **Y = -58**. Press `F3` (Java) or enable coordinates (Bedrock) to find your Y-level.
+- **Use strip mining or branch mining**: Dig a main tunnel and then branch off sideways every few blocks.
+- **Bring the right tools**: Use at least an iron pickaxe to mine diamonds.
+- **Use Fortune enchantment**: If you have a Fortune-enchanted pickaxe, you’ll get more diamonds from each block.
+
+> 💡 Tip: Lava is common at deep levels, so carry a water bucket!
+
+
+## 9. Small Wheat Farm by Water
 Farming provides food. To start a wheat farm, pick a flat area near water or bring a water bucket. Use a hoe on grass to create farmland, then plant seeds (obtained by breaking grass). Farmland within 4 blocks of water will stay hydrated (darker soil), which speeds growth.
 A classic beginner farm is a 9×9 patch of tilled soil with a water source in the center. Ensure it’s lit with torches so crops even grow at night. After some time, wheat crops turn golden and can be harvested for wheat (to craft bread, etc.). Often you can find these near villages with a bunch of what ready to be farmed.
 
@@ -113,18 +127,18 @@ How to craft bread out of wheat
 
 ![Wheat Minecraft](bread-craft.png)
 
-## 9. Using a Map or Coordinates
+## 10. Using a Map or Coordinates
  Minecraft has a map item and a coordinate system to help you navigate. Crafting a map (9 paper + 1 compass) and using it will draw the terrain as you explore. The map’s top corner displays the player’s coordinates in Bedrock Edition but in Java you’ll use the debug screen. Coordinates (X, Y, Z) can be viewed by pressing F3 (Java Edition) – this shows your position so you can note important locations or navigate back to your base. Many players use coordinates instead of maps early on, since finding the XYZ position helps to relocate points of interest.
  
 ![Map Minecraft](map_mine.png)
 
-## 10. Throwing an Eye of Ender to Find a Stronghold
+## 11. Throwing an Eye of Ender to Find a Stronghold
 Crafting Eyes of Ender in the inventory – combining Ender Pearls and Blaze Powder. These Eyes are used to locate strongholds. After gearing up, a key objective is finding a Stronghold (which contains the End Portal). Eyes are enders are also used for this: players can craft Eyes of Ender and throw them into the air to lead to a nearby stronghold
 When you throw an Eye of Ender (right-click while holding it), it floats upward and moves toward the direction of the nearest stronghold. Follow it, retrieve it if it drops, and repeat – the Eyes will gradually guide you to the stronghold’s location underground. (Be sure to craft plenty; Eyes can break on use.)
 
 ![Eye Minecraft](eye_ender.png)
 
-## 11. The Ender Dragon Battle (The End)
+## 12. The Ender Dragon Battle (The End)
 The final challenge in vanilla Minecraft is the Ender Dragon fight in The End dimension. To reach the End, activate the portal in a stronghold using 12 Eyes of Ender. The battle takes place on the End’s obsidian island with tall obsidian towers (each with End Crystals that heal the dragon).
 
 ![Eye Minecraft](end_portal.png)
@@ -134,7 +148,7 @@ dragon’s health to zero.
 
 ![Eye Minecraft](dragon_mine.png)
 
-## 12. Creative Mode Inventory (Unlimited Blocks)
+## 13. Creative Mode Inventory (Unlimited Blocks)
 In Creative mode, the player has unlimited blocks and items and cannot die under normal
 conditions. The inventory screen in Creative is filled with all blocks/items sorted by categories
 (Building Blocks, Tools, Combat, etc.). You can grab any quantity of any item. This freedom
