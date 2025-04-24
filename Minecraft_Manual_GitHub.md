@@ -114,7 +114,9 @@ How to craft bread out of wheat
 ![Wheat Minecraft](bread-craft.png)
 
 ## 9. Using a Map or Coordinates
-Description and image placeholder.
+ Minecraft has a map item and a coordinate system to help you navigate. Crafting a map (9 paper + 1 compass) and using it will draw the terrain as you explore. The map’s top corner displays the player’s coordinates in Bedrock Edition but in Java you’ll use the debug screen. Coordinates (X, Y, Z) can be viewed by pressing F3 (Java Edition) – this shows your position so you can note important locations or navigate back to your base. Many players use coordinates instead of maps early on, since finding the XYZ position helps to relocate points of interest.
+ 
+![Map Minecraft](map_mine.png)
 
 ## 10. Throwing an Eye of Ender to Find a Stronghold
 Description and image placeholder.
