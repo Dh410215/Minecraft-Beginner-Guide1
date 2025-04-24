@@ -79,9 +79,16 @@ How to craft a axe
 ![Crafting a Table](axe_minecraft.png)
 
 ## 4. First-Night Shelters (Dirt Hut and Cave)
-For your first night, quickly build a small shelter before darkness. Many players craft a 4×4 (or
-similar) dirt hut as a quick safehouse – even a basic dirt box can keep monsters out. Place a
-door for convenience and a torch for light. Alternatively, you can dig into a hillside: 
+
+Your first shelter is super important to surviving the first night. Without protection, mobs like zombies and skeletons will attack you at night.
+
+Ways to create your first shelter:
+
+- **Dirt hut**: Use dirt blocks to quickly build a structure which will keep yous safe from the mobs.
+- **Add a door and a torch**: Makes it safer and easier to see inside.
+- **Cave shelter**: Dig into the side of a hill or mountain to make a “hobbit hole.”
+- **Block the entrance**: Use a door or blocks so mobs can’t get in.
+- **Light it up**: Place torches inside to prevent mob spawns.
 
 ![dirt hut](dirt_hut_1.png)
 
@@ -92,7 +99,17 @@ By hollowing out a little cave and blocking the entrance, you get a safe “hobb
 
 
 ## 5. Hostile Mobs at Night (Zombie, Creeper, Skeleton, Spider)
-At nighttime, mobs will spawn around threatening you. These enemies each behave differently – e.g. Zombies shamble toward you, Creepers silently approach and explode, Skeletons shoot arrows from afar, and Spiders can climb walls. Always be prepared to defend or hide at night. (Tip: Craft a sword early, and keep your shelter well-lit to prevent mob spawns inside.)
+
+When the sun goes down and it turns night time mobs will start to appear and threaten you.
+
+Mob types and behavior:
+
+- **Zombies**: Slowly walk toward you and attack in groups.
+- **Creepers**: Sneak up silently and explode when you get close to them.
+- **Skeletons**: Shoot arrows from a distance.
+- **Spiders**: Jump and climb walls.
+
+> 💡 Tip: Keep your shelter lit and craft a sword early to defend yourself.
 
 ![mobs mine](mob_mine1.png)
 
@@ -103,14 +120,27 @@ You should also watchout for creepers as if you get to close to them they can bl
 
 
 ## 6. Coal and Iron Ore in a Cave
-Once you have wooden or stone tools, start mining in caves for coal and iron. Coal ore veins are common and give coal for torches and fuel. Iron ore (beige-flecked stone) is a bit deeper and used for stronger tools/armor. Often iron is close to the same level as coal. Look for black speckled stone (coal) and brown/tan speckled stone (iron) on cave walls. Mine iron with a stone pickaxe, then smelt the raw iron in a furnace to get usable iron ingots. Coal can also be used to make torches in the crafting part of the game which can be placed to provide light when mining in the dark or if its dark outside it provides light and can make the mobs not spawn arond it.
+Coal and iron ore are super important to the beggining of the game since its easy to find and provides useful resources for you to advance further into the game
+
+Where to look and what to do:
+
+- **Coal ore**: Black-speckled stone found in surface-level caves.
+- **Iron ore**: Beige-speckled stone found a bit deeper underground.
+- **Use a stone pickaxe**: Needed to mine iron.
+- **Smelt iron**: Use a furnace to turn raw iron into iron ingots.
+- **Use coal**: For torches and as fuel in furnaces.
 
  ![Iron](Iron_minecraft.png) 
  ![Iron](Coal_minecraft.png)
 
 ## 7. Crafting Iron Tools and Armor
-With iron smelted, you can craft durable iron tools (pickaxe, axe, shovel, sword) and iron armor. Use the crafting table to make tools the same way as wooden or stone, but use iron ingots. For armor, you’ll need 24 iron ingots for a full set (helmet, chestplate, leggings, boots). For example, fill the top 2 rows of the crafting grid with iron ingots (plus one in the center of the middle row) to craft an iron chestplate. Iron gear greatly improves your survivability , and iron armor is a common early goal of the game.
+Iron tools and armor offer better durability and protection than wood or stone.
 
+To craft iron gear:
+
+- **Smelt iron ore** in a furnace to get iron ingots.
+- **Use the crafting table** to make tools: pickaxe, sword, axe, etc.
+- **Craft armor**: 24 ingots total makes a full set (helmet, chestplate, leggings, boots).
 ![Iron](iron_armor.png)
 
 In order to get iron ingots you have to smelt it in a furnace
@@ -136,8 +166,18 @@ To find diamonds, follow these tips:
 ![Finding Diamonds in a Deep Cave](diamond_mine.jpg)
 
 ## 9. Small Wheat Farm by Water
-Farming provides food. To start a wheat farm, pick a flat area near water or bring a water bucket. Use a hoe on grass to create farmland, then plant seeds (obtained by breaking grass). Farmland within 4 blocks of water will stay hydrated (darker soil), which speeds growth.
-A classic beginner farm is a 9×9 patch of tilled soil with a water source in the center. Ensure it’s lit with torches so crops even grow at night. After some time, wheat crops turn golden and can be harvested for wheat (to craft bread, etc.). Often you can find these near villages with a bunch of what ready to be farmed.
+Farming provides food and is essential for long-term survival in Minecraft.
+
+To start a wheat farm:
+
+- **Pick a flat area near water**, or bring a water bucket to your farm spot.
+- **Use a hoe** on grass blocks to turn them into farmland.
+- **Plant seeds** (you get them by breaking tall grass).
+- **Hydration**: Farmland within 4 blocks of water will stay hydrated (it looks darker), which helps crops grow faster.
+- **Beginner farm tip**: A classic starter design is a 9×9 square of farmland with water in the center.
+- **Light the area** with torches so crops grow even at night.
+- After some time, wheat turns golden and can be harvested for crafting bread and other food.
+- You can often find wheat farms already growing in villages.
 
 ![Wheat Minecraft](Wheat_mine.png)
 
@@ -173,15 +213,38 @@ The Nether is a dangerous, its a hell like dimension filled with lava, hostile m
 - Don't sleep in the Nether — beds explode!
 
 ## 11. Using a Map or Coordinates
- Minecraft has a map item and a coordinate system to help you navigate. Crafting a map (9 paper + 1 compass) and using it will draw the terrain as you explore. The map’s top corner displays the player’s coordinates in Bedrock Edition but in Java you’ll use the debug screen. Coordinates (X, Y, Z) can be viewed by pressing F3 (Java Edition) – this shows your position so you can note important locations or navigate back to your base. Many players use coordinates instead of maps early on, since finding the XYZ position helps to relocate points of interest.
+Minecraft has a map item and a coordinate system to help you navigate.
+
+Here's how it works:
+
+- **Crafting a map**: Combine 9 paper and 1 compass to create a map. As you move, it draws the surrounding terrain.
+- **Bedrock Edition**: The map’s top corner displays your coordinates automatically.
+- **Java Edition**: Press `F3` to open the debug screen, which shows your current coordinates (X, Y, Z).
+- **Using coordinates**: You can note down these coordinates to return to your base or important spots.
+- **Pro tip**: Many players rely on coordinates instead of maps early on because it's faster and more precise for locating places.
  
 ![Map Minecraft](map_mine.png)
 
 ## 12. Throwing an Eye of Ender to Find a Stronghold
-Crafting Eyes of Ender in the inventory – combining Ender Pearls and Blaze Powder. These Eyes are used to locate strongholds. After gearing up, a key objective is finding a Stronghold (which contains the End Portal). Eyes are enders are also used for this: players can craft Eyes of Ender and throw them into the air to lead to a nearby stronghold
-When you throw an Eye of Ender (right-click while holding it), it floats upward and moves toward the direction of the nearest stronghold. Follow it, retrieve it if it drops, and repeat – the Eyes will gradually guide you to the stronghold’s location underground. (Be sure to craft plenty; Eyes can break on use.)
+Crafting Eyes of Ender is essential for locating a Stronghold which is the structure that contains the End Portal.
 
-![Eye Minecraft](eye_ender.png)
+Steps and tips:
+
+- **Craft an Eye of Ender** by combining an Ender Pearl and Blaze Powder in your inventory.
+- **Gear up** before searching Strongholds are often underground and can contain mobs.
+- Eyes of Ender are used to find the nearest Stronghold by throwing them into the air.
+
+![Throwing an Eye of Ender](eye_craft.jpg)
+
+How it works:
+
+- **Throw an Eye of Ender** (right-click while holding it) and it will float upward.
+- It moves in the direction of the nearest Stronghold.
+- **Follow it**, and if it doesn’t break, you can pick it up and throw it again.
+- **Repeat the process** until you reach the location eventually it will hover above one spot then drop straight down, indicating the Stronghold is below.
+- Be sure to **craft multiple Eyes**, as they have a chance to break when thrown.
+
+![Throwing an Eye of Ender](throw_eye.jpg)
 
 ## 13. The Ender Dragon Battle (The End)
 The final challenge in vanilla Minecraft is the Ender Dragon fight in The End dimension. To reach the End, activate the portal in a stronghold using 12 Eyes of Ender. The battle takes place on the End’s obsidian island with tall obsidian towers (each with End Crystals that heal the dragon).
@@ -194,14 +257,21 @@ dragon’s health to zero.
 ![Eye Minecraft](dragon_mine.png)
 
 ## 14. Creative Mode Inventory (Unlimited Blocks)
-In Creative mode, the player has unlimited blocks and items and cannot die under normal
-conditions. The inventory screen in Creative is filled with all blocks/items sorted by categories
-(Building Blocks, Tools, Combat, etc.). You can grab any quantity of any item. This freedom
-allows for building anything without needing to gather resources. As the wiki describes,
-Creative mode allows a player endless blocks, enabling builders to construct massive or complex
-creations with ease. To access Creative in singleplayer, you can start a world in Creative or
-enable cheats and use /gamemode creative. It’s the perfect mode to unleash your
-imagination with no survival constraints.
+In Creative mode, the player has unlimited blocks and items and cannot die under normal conditions.
+
+Key features of Creative mode:
+
+- The inventory screen contains **every item in the game**, sorted into categories like Building Blocks, Tools, Combat, Redstone, and more.
+- You can grab **any quantity** of any item instantly.
+- You can **fly freely** and build without gravity or fall damage.
+- **No need to gather resources** you can just place blocks instantly and destroy them in one hit.
+
+How to access Creative mode:
+
+- Start a world with the game mode set to **Creative**, or
+- If cheats are enabled, type `/gamemode creative` in the chat.
+
+> 💡 Perfect for massive builds, testing redstone circuits, or experimenting freely.
 
 ![Creative Minecraft](creative_mine.png)
 
