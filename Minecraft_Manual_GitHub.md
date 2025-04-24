@@ -95,6 +95,10 @@ With iron smelted, you can craft durable iron tools (pickaxe, axe, shovel, sword
 
 ![Iron](iron_armor.png)
 
+In order to get iron ingots you have to smelt it in a furnace
+
+![Iron](smelt_iron.png)
+
 ## 8. Small Wheat Farm by Water
 Description and image placeholder.
 
