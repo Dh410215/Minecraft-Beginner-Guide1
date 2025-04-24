@@ -91,7 +91,9 @@ Once you have wooden or stone tools, start mining in caves for coal and iron. Co
  ![Iron](Coal_minecraft.png)
 
 ## 7. Crafting Iron Tools and Armor
-Description and image placeholder.
+With iron smelted, you can craft durable iron tools (pickaxe, axe, shovel, sword) and iron armor. Use the crafting table to make tools the same way as wooden or stone, but use iron ingots. For armor, you’ll need 24 iron ingots for a full set (helmet, chestplate, leggings, boots). For example, fill the top 2 rows of the crafting grid with iron ingots (plus one in the center of the middle row) to craft an iron chestplate. Iron gear greatly improves your survivability , and iron armor is a common early goal of the game.
+
+![Iron](iron_armor.png)
 
 ## 8. Small Wheat Farm by Water
 Description and image placeholder.
