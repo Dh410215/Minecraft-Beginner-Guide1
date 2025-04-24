@@ -19,17 +19,15 @@
 - [14. Creative Mode Inventory (Unlimited Blocks)](#14-creative-mode-inventory-unlimited-blocks)
 
 ## 1. "Create New World" Screen (Game Mode & Difficulty)
-In this menu you create your new Minecraft world.
 
--Here you pick the game mode you want, insert a seed (optional), and select the difficulty.
+In this menu you create your new Minecraft world. You can pick your preferred game mode, insert a seed (optional), and select the difficulty level.
 
--You can choose Survival or Creative mode (Hardcore is also available in Java Edition).
+To set up your world:
 
--Set the difficulty: Peaceful, Easy, Normal, or Hard for your new world.
-
--The screen also has options like Allow Cheats and experimental toggles.
-
--Once you’re happy with the settings, click Create New World to generate the world.
+- **Choose a game mode**: Survival or Creative (Hardcore is also available in Java Edition).
+- **Set the difficulty**: Peaceful, Easy, Normal, or Hard.
+- **Optional settings**: Add a seed, toggle Allow Cheats or enable Experiments.
+- Once you're happy with the settings, click **Create New World** to begin.
 
 ![Create New Game Screen](create_new_game_png_MAIN.png)
 
