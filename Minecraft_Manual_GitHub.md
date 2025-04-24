@@ -33,24 +33,32 @@ To set up your world:
 
 
 ## 2. Punching a Tree for Wood
-Punching Minecraft trees is essential to getting wood which is the building block and essential
-to starting the game and building your bed and house with wood. And most importantly making
-a crafting table. Wood is also the basic block to creating sticks which helps you make tools for
-your swords and utility. Wood from logs is the first resource; collect a few logs by holding down
-the attack button on a tree. This yields wooden logs, which can then be crafted into planks and
-used to make your first tools and crafting table.
+Punching trees is how every Minecraft game starts. Wood is essential for crafting and building your first shelter.
+
+To collect wood:
+
+- Walk up to a tree and hold down the attack button to punch the log.
+- Pick up the dropped **wooden logs**.
+- Use logs to craft **wooden planks**, **sticks**, and a **crafting table**.
+- These resources will allow you to make tools, weapons, and your first house.
+
 
 ![Punching a Tree](Punching_wood_main.png)
 
 
 ## 3. Crafting Table & Basic Tool Crafting
-The 3×3 crafting grid interface, accessed by using a Crafting Table
-After gathering wood, craft wooden planks and then a Crafting Table (4 planks in a 2×2 grid).
-Using the crafting table opens a 3×3 crafting menu
-Here you can create basic wooden tools. For example, to make a wooden pickaxe, arrange 3
-wood planks across the top row and 2 sticks in the middle of the next two rows – three wood
-planks plus two sticks in the pattern yields a wooden pickaxe
-With these first tools, you can harvest stone and coal, paving the way for better tools
+Once you have wood, you can start crafting the tools you'll need to survive.
+
+Steps to get started:
+
+- Craft **wooden planks** from logs in your 2x2 inventory grid.
+- Use 4 planks to make a **Crafting Table**.
+- Place the table and right-click to access the **3×3 crafting grid**.
+- To craft a wooden pickaxe:  
+  - Place 3 wooden planks across the top row,  
+  - Place 2 sticks vertically in the middle column.
+
+This setup gives you a basic pickaxe to collect stone and coal.
 
 ![Crafting a Table](crafting_table_main.png)
 
