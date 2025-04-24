@@ -23,7 +23,13 @@ In this menu you create your new Minecraft world. Here you pick the game mode yo
 
 
 ## 2. Punching a Tree for Wood
-Description and image placeholder.
+Punching Minecraft trees is essential to getting wood which is the building block and essential
+to starting the game and building your bed and house with wood. And most importantly making
+a crafting table. Wood is also the basic block to creating sticks which helps you make tools for
+your swords and utility. Wood from logs is the first resource; collect a few logs by holding down
+the attack button on a tree. This yields wooden logs, which can then be crafted into planks and
+used to make your first tools and crafting table.
+
 
 ## 3. Crafting Table & Basic Tool Crafting
 Description and image placeholder.
