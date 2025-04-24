@@ -116,6 +116,7 @@ To find diamonds, follow these tips:
 
 > 💡 Tip: Lava is common at deep levels, so carry a water bucket!
 
+![Finding Diamonds in a Deep Cave](diamond_mine.jpg)
 
 ## 9. Small Wheat Farm by Water
 Farming provides food. To start a wheat farm, pick a flat area near water or bring a water bucket. Use a hoe on grass to create farmland, then plant seeds (obtained by breaking grass). Farmland within 4 blocks of water will stay hydrated (darker soil), which speeds growth.
