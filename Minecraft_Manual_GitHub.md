@@ -61,7 +61,17 @@ How to craft a axe
 ![Crafting a Table](axe_minecraft.png)
 
 ## 4. First-Night Shelters (Dirt Hut and Cave)
-Description and image placeholder.
+For your first night, quickly build a small shelter before darkness. Many players craft a 4×4 (or
+similar) dirt hut as a quick safehouse – even a basic dirt box can keep monsters out. Place a
+door for convenience and a torch for light. Alternatively, you can dig into a hillside: 
+
+![dirt hut](dirt_hut_1.png)
+
+In fact, you can create a base on a hillside where you're protected by the walls around you so no mobs can spawn there.
+By hollowing out a little cave and blocking the entrance, you get a safe “hobbit hole.” Whichever style you choose, ensure you have light (torches) and a 1-block opening (with door or blocks) that monsters cannot get through overnight.
+
+![dirt hut](stone_hut_1.png)
+
 
 ## 5. Hostile Mobs at Night (Zombie, Creeper, Skeleton, Spider)
 Description and image placeholder.
